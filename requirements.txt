@@ -1,7 +1,6 @@
 asttokens==2.2.1
 backcall==0.2.0
 branca==0.6.0
-certifi @ file:///croot/certifi_1671487769961/work/certifi
 cffi==1.15.1
 charset-normalizer==3.0.1
 comm==0.1.2
