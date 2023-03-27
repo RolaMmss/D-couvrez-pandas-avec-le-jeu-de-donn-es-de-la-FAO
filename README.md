@@ -56,9 +56,6 @@ Votre première mission est de réaliser une étude sur la démographie et la nu
     Fusionnez df_pop avec products et nommez ce DataFrame df. Afin de fusionner ces jeux de données vous devez identifier les clés primaires. Renommer les colonnes comme sur la capture d’écran ci-dessous.
     Note : ajouter la population à la base de données créera de la redondance dans la bdd mais simplifiera les calculs pour les questions suivantes. Ne pas supprimer df_pop.
 
-    A ce stade votre jeu de données doit ressembler à cela : 
-
-
     Maintenant que nous avons un DF unique, il sera plus facile de l’explorer :
 
     Quelles sont les types de données de chaque colonne ?
